@@ -1,0 +1,49 @@
+.profile-pic {
+	max-width: 80%;
+}
+.info-list {
+	text-align: left;
+	font-size: 20px;
+}
+body {
+	background-image: url(https://i1.sndcdn.com/visuals-000033990652-vjNFZv-t2480x520.jpg);
+	font-family: "Julius Sans One", sans-serif;
+}
+.media-link {
+	color: gray;
+}
+h1 {
+	color: #51698e;
+}
+.main-title {
+	font-size: 60px;
+	font-family: "saira", sans-serif;
+}
+.my-nav {
+	background-color: black;
+}
+.my-nav-button {
+	color: white;
+}
+.logo-button {
+	max-width: 4%;
+}
+.home-body {
+    background-color: white;
+}
+.button-enter {
+	background-color: #51698e;
+	border-color: #51698e;
+}
+.jumbotron {
+	background-image: url(https://i1.sndcdn.com/visuals-000033990652-vjNFZv-t2480x520.jpg);
+}
+.display-1, .display-4 {
+	color: white;
+}
+.jumbotron {
+	height: 100vh;
+}
+.track-description {
+	text-align: left;
+}
